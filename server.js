@@ -1,8 +1,12 @@
-const result = require("dotenv").config();
-if (result.error) {
-  console.log("❌ Missing .env file! Copy the .env.sample file to .env and configure it!");
+require("dotenv").config();
+
+if (!process.env.TOKEN) {
+  console.log("❌ Missing TOKEN in .env file! Copy the .env.sample file to .env and configure it!");
   process.exit();
 }
+
+if (!process.env.INTERVAL) process.env.INTERVAL = 600;
+if (!process.env.PORT) process.env.PORT = 8080;
 
 const fs = require("fs");
 const fetch = require("node-fetch");
