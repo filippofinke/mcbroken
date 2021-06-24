@@ -1,0 +1,1522 @@
+[
+	{
+		"rid": "780168",
+		"name": "Etoy",
+		"longitude": 6.424479,
+		"latitude": 46.47458,
+		"addressLine1": "Rte. de l'Industrie",
+		"city": "Etoy",
+		"phone": "+41 21 807 47 47"
+	},
+	{
+		"rid": "780094",
+		"name": "Uster",
+		"longitude": 8.718251,
+		"latitude": 47.350163,
+		"addressLine1": "Poststrasse 2",
+		"city": "Uster",
+		"phone": "+41 43 399 09 10"
+	},
+	{
+		"rid": "780191",
+		"name": "Genève La Praille",
+		"longitude": 6.1283545,
+		"latitude": 46.179424,
+		"addressLine1": "Route des Jeunes 10",
+		"city": "Carouge",
+		"phone": "+41 22 301 37 71"
+	},
+	{
+		"rid": "780141",
+		"name": "Crissier Centre Commercial",
+		"longitude": 6.5690155,
+		"latitude": 46.55414,
+		"addressLine1": "Chemin De Closalet 7",
+		"city": "Crissier",
+		"phone": "+41 21 671 30 50"
+	},
+	{
+		"rid": "780169",
+		"name": "Zürich Stadelhofen",
+		"longitude": 8.547671,
+		"latitude": 47.366447,
+		"addressLine1": "Gottfried Keller-Str. 7",
+		"city": "Zürich",
+		"phone": "+41 43 343 97 11"
+	},
+	{
+		"rid": "780171",
+		"name": "Sissach",
+		"longitude": 7.8013983,
+		"latitude": 47.46725,
+		"addressLine1": "Gewerbestrasse 2",
+		"city": "Sissach",
+		"phone": "+41 61 971 95 45"
+	},
+	{
+		"rid": "780076",
+		"name": "Marin",
+		"longitude": 7.009073,
+		"latitude": 47.013065,
+		"addressLine1": "Route des Perveuils 2",
+		"city": "Marin",
+		"phone": "+41 32 753 00 20"
+	},
+	{
+		"rid": "780043",
+		"name": "Interlaken",
+		"longitude": 7.8538094,
+		"latitude": 46.684525,
+		"addressLine1": "Bahnhofstrasse 11",
+		"city": "Interlaken",
+		"phone": "+41 33 823 53 33"
+	},
+	{
+		"rid": "780070",
+		"name": "Triesen",
+		"longitude": 9.523526,
+		"latitude": 47.11935,
+		"addressLine1": "Industriestrasse 1",
+		"city": "Triesen FL",
+		"phone": "+423 399 33 11"
+	},
+	{
+		"rid": "780073",
+		"name": "Therwil",
+		"longitude": 7.5545797,
+		"latitude": 47.504784,
+		"addressLine1": "Oberwilerstrasse 46",
+		"city": "Therwil",
+		"phone": "+41 61 723 20 20"
+	},
+	{
+		"rid": "780158",
+		"name": "Arbon",
+		"longitude": 9.418973,
+		"latitude": 47.498634,
+		"addressLine1": "Pündtstrasse 2",
+		"city": "Arbon",
+		"phone": "+41 71 446 88 11"
+	},
+	{
+		"rid": "780062",
+		"name": "Martigny",
+		"longitude": 7.073779,
+		"latitude": 46.102203,
+		"addressLine1": "Av. de la Gare 5",
+		"city": "Martigny",
+		"phone": "+41 27 722 30 30"
+	},
+	{
+		"rid": "780063",
+		"name": "Sierre",
+		"longitude": 7.5133257,
+		"latitude": 46.28237,
+		"addressLine1": "Rue de Potence 2",
+		"city": "Sierre",
+		"phone": "+41 27 456 41 80"
+	},
+	{
+		"rid": "780080",
+		"name": "Le Lignon",
+		"longitude": 6.098664,
+		"latitude": 46.205975,
+		"addressLine1": "Rte du Bois des Frères 40",
+		"city": "Le Lignon",
+		"phone": "+41 22 796 88 00"
+	},
+	{
+		"rid": "780108",
+		"name": "Biel Bahnhof",
+		"longitude": 7.242732,
+		"latitude": 47.133114,
+		"addressLine1": "Bahnhofplatz 4",
+		"city": "Biel",
+		"phone": "+41 32 322 90 84"
+	},
+	{
+		"rid": "780111",
+		"name": "Glarus",
+		"longitude": 9.058626,
+		"latitude": 47.050823,
+		"addressLine1": "Iseliguet 2",
+		"city": "Glarus",
+		"phone": "+41 55 650 25 00"
+	},
+	{
+		"rid": "780123",
+		"name": "Cheseaux",
+		"longitude": 6.601542,
+		"latitude": 46.582375,
+		"addressLine1": "Rte de Genève 9b",
+		"city": "Cheseaux",
+		"phone": "+41 21 847 00 70"
+	},
+	{
+		"rid": "780159",
+		"name": "Bern Westside",
+		"longitude": 7.3730235,
+		"latitude": 46.943844,
+		"addressLine1": "Riedbachstrasse 4",
+		"city": "Bern",
+		"phone": "+41 31 991 27 41"
+	},
+	{
+		"rid": "780162",
+		"name": "Sant' Antonino",
+		"longitude": 8.973328,
+		"latitude": 46.156734,
+		"addressLine1": "Via Gorelle 8",
+		"city": "Sant' Antonino",
+		"phone": "+41 91 840 15 00"
+	},
+	{
+		"rid": "780121",
+		"name": "Neuchâtel Gare",
+		"longitude": 6.935955,
+		"latitude": 46.996643,
+		"addressLine1": "Place de la Gare 1",
+		"city": "Neuchâtel",
+		"phone": "+41 32 725 35 15"
+	},
+	{
+		"rid": "780164",
+		"name": "Basel Marktplatz",
+		"longitude": 7.587493,
+		"latitude": 47.557903,
+		"addressLine1": "Marktplatz 18",
+		"city": "Basel",
+		"phone": "+41 61 263 34 05"
+	},
+	{
+		"rid": "780167",
+		"name": "Köniz",
+		"longitude": 7.4164004,
+		"latitude": 46.926086,
+		"addressLine1": "Könizstrasse 294",
+		"city": "Köniz",
+		"phone": "+41 31 974 03 25"
+	},
+	{
+		"rid": "780117",
+		"name": "Muralto",
+		"longitude": 8.799861,
+		"latitude": 46.171516,
+		"addressLine1": "Via Stazione 1",
+		"city": "Locarno",
+		"phone": "+41 91 744 66 06"
+	},
+	{
+		"rid": "780114",
+		"name": "Balexert Auto-Centre",
+		"longitude": 6.1149144,
+		"latitude": 46.218082,
+		"addressLine1": "Av. Louis-Casaï 11",
+		"city": "Genève",
+		"phone": "+41 22 796 47 07"
+	},
+	{
+		"rid": "780072",
+		"name": "Münchenstein",
+		"longitude": 7.604269,
+		"latitude": 47.525944,
+		"addressLine1": "Bruderholzstrasse 41",
+		"city": "Münchenstein",
+		"phone": "+41 61 411 81 81"
+	},
+	{
+		"rid": "780093",
+		"name": "Wil",
+		"longitude": 9.049301,
+		"latitude": 47.453243,
+		"addressLine1": "Toggenburgerstrasse 154",
+		"city": "Wil",
+		"phone": "+41 71 925 35 01"
+	},
+	{
+		"rid": "780163",
+		"name": "Laufen",
+		"longitude": 7.5016637,
+		"latitude": 47.41718,
+		"addressLine1": "Ziegeleistrasse 40",
+		"city": "Laufen",
+		"phone": "+41 61 763 15 80"
+	},
+	{
+		"rid": "780033",
+		"name": "Lugano Pazzallo",
+		"longitude": 8.936787,
+		"latitude": 45.985275,
+		"addressLine1": "Via alla Sguancia 9",
+		"city": "Pambio Noranco",
+		"phone": "+41 91 994 44 63"
+	},
+	{
+		"rid": "780101",
+		"name": "Bern Wankdorf",
+		"longitude": 7.4640436,
+		"latitude": 46.96255,
+		"addressLine1": "Papiermühlestrasse 85",
+		"city": "Bern",
+		"phone": "+41 31 333 11 70"
+	},
+	{
+		"rid": "780074",
+		"name": "Basel Badischer Bahnhof",
+		"longitude": 7.6067023,
+		"latitude": 47.566532,
+		"addressLine1": "Schwarzwaldallee 183",
+		"city": "Basel",
+		"phone": "+41 61 692 48 38"
+	},
+	{
+		"rid": "780083",
+		"name": "Delémont",
+		"longitude": 7.360557,
+		"latitude": 47.362648,
+		"addressLine1": "Route de Moutier 115",
+		"city": "Delémont",
+		"phone": "+41 32 423 33 22"
+	},
+	{
+		"rid": "780119",
+		"name": "Lugano Albertolli",
+		"longitude": 8.953877,
+		"latitude": 46.00368,
+		"addressLine1": "Riva Albertolli 1",
+		"city": "Lugano",
+		"phone": "+41 91 924 92 39"
+	},
+	{
+		"rid": "780166",
+		"name": "Winterthur Grüzefeldstrasse",
+		"longitude": 8.746658,
+		"latitude": 47.497723,
+		"addressLine1": "Grüzefeldstrasse 1",
+		"city": "Winterthur",
+		"phone": "+41 52 238 22 33"
+	},
+	{
+		"rid": "780173",
+		"name": "Visp",
+		"longitude": 7.8815026,
+		"latitude": 46.292435,
+		"addressLine1": "Bahnhofstrasse 17",
+		"city": "Visp",
+		"phone": "+41 27 946 85 20"
+	},
+	{
+		"rid": "780222",
+		"name": "Basel Centralbahnstrasse",
+		"longitude": 7.588767,
+		"latitude": 47.548588,
+		"addressLine1": "Centralbahnstrasse 9",
+		"city": "Basel",
+		"phone": "+41 61 272 83 00"
+	},
+	{
+		"rid": "780058",
+		"name": "Oftringen",
+		"longitude": 7.9358263,
+		"latitude": 47.298016,
+		"addressLine1": "Aeussere Luzernerstrasse 13",
+		"city": "Oftringen",
+		"phone": "+41 62 797 76 76"
+	},
+	{
+		"rid": "780069",
+		"name": "Wädenswil",
+		"longitude": 8.66009,
+		"latitude": 47.23821,
+		"addressLine1": "Seestrasse 200",
+		"city": "Wädenswil",
+		"phone": "+41 44  780 92 42"
+	},
+	{
+		"rid": "780181",
+		"name": "Langnau",
+		"longitude": 7.800696,
+		"latitude": 46.938038,
+		"addressLine1": "Bäraugrundstrasse 16",
+		"city": "Langnau",
+		"phone": "+41 34 402 82 66"
+	},
+	{
+		"rid": "780193",
+		"name": "Bern Postparc",
+		"longitude": 7.4373236,
+		"latitude": 46.948467,
+		"addressLine1": "Schanzenstrasse 4b",
+		"city": "Bern",
+		"phone": "+41 31 311 87 42"
+	},
+	{
+		"rid": "780036",
+		"name": "Chur-Drive",
+		"longitude": 9.5125475,
+		"latitude": 46.84608,
+		"addressLine1": "Richtstrasse 19",
+		"city": "Chur",
+		"phone": "+41 81 252 55 55"
+	},
+	{
+		"rid": "780059",
+		"name": "Rapperswil",
+		"longitude": 8.8161,
+		"latitude": 47.225594,
+		"addressLine1": "Fischmarktplatz 7",
+		"city": "Rapperswil",
+		"phone": "+41 55 210 19 82"
+	},
+	{
+		"rid": "780165",
+		"name": "Bern Zytgloggelaube",
+		"longitude": 7.447714,
+		"latitude": 46.948135,
+		"addressLine1": "Zytgloggelaube 6",
+		"city": "Bern",
+		"phone": "+41 31 318 88 70"
+	},
+	{
+		"rid": "780215",
+		"name": "Meyrin",
+		"longitude": 6.0850983,
+		"latitude": 46.227398,
+		"addressLine1": "Chemin de Riantbosson 19",
+		"city": "Meyrin",
+		"phone": "022 980 97 94"
+	},
+	{
+		"rid": "780127",
+		"name": "Thurau",
+		"longitude": 9.093663,
+		"latitude": 47.459934,
+		"addressLine1": "Autobahnraststätte Thurau Süd 927",
+		"city": "Züberwangen",
+		"phone": "+41 71 940 08 33"
+	},
+	{
+		"rid": "780148",
+		"name": "Conthey",
+		"longitude": 7.295718,
+		"latitude": 46.222897,
+		"addressLine1": "Route de bassin 2",
+		"city": "Conthey",
+		"phone": "+41 27 346 26 86"
+	},
+	{
+		"rid": "780195",
+		"name": "Magliaso",
+		"longitude": 8.889696,
+		"latitude": 45.984734,
+		"addressLine1": "Via Cantonale 12",
+		"city": "Magliaso",
+		"phone": "+41 91 606 61 12"
+	},
+	{
+		"rid": "780209",
+		"name": "Lausanne Le Flon",
+		"longitude": 6.626086,
+		"latitude": 46.522324,
+		"addressLine1": "Rue de Genève 33",
+		"city": "Lausanne",
+		"phone": "+41 21 351 39 61"
+	},
+	{
+		"rid": "780213",
+		"name": "Zürich Letzipark",
+		"longitude": 8.49809,
+		"latitude": 47.38781,
+		"addressLine1": "Hohlstrasse 467",
+		"city": "Zürich",
+		"phone": "044 491 49 00"
+	},
+	{
+		"rid": "780217",
+		"name": "Solothurn",
+		"longitude": 7.541569,
+		"latitude": 47.204063,
+		"addressLine1": "Dornacherstrasse 28",
+		"city": "Solothurn",
+		"phone": "+41 32 621 80 88"
+	},
+	{
+		"rid": "780124",
+		"name": "Lyss",
+		"longitude": 7.306696,
+		"latitude": 47.074272,
+		"addressLine1": "Hirschenplatz 1",
+		"city": "Lyss",
+		"phone": "+41 32 385 33 80"
+	},
+	{
+		"rid": "780194",
+		"name": "Seewen",
+		"longitude": 8.628021,
+		"latitude": 47.03235,
+		"addressLine1": "Steinbislin 5",
+		"city": "Seewen",
+		"phone": "+41 41 811 00 85"
+	},
+	{
+		"rid": "780207",
+		"name": "Murten - Morat",
+		"longitude": 7.144713,
+		"latitude": 46.940544,
+		"addressLine1": "Grande Ferme 16",
+		"city": "Murten",
+		"phone": "+41 26 670 48 90"
+	},
+	{
+		"rid": "780210",
+		"name": "Kölliken",
+		"longitude": 8.022055,
+		"latitude": 47.323513,
+		"addressLine1": "Autobahnraststätte Süd",
+		"city": "Kölliken",
+		"phone": "+41 62 723 95 66"
+	},
+	{
+		"rid": "780060",
+		"name": "Frauenfeld",
+		"longitude": 8.908887,
+		"latitude": 47.56411,
+		"addressLine1": "Riedstrasse 1",
+		"city": "Frauenfeld",
+		"phone": "+41 52 720 55 00"
+	},
+	{
+		"rid": "780103",
+		"name": "Egerkingen",
+		"longitude": 7.805141,
+		"latitude": 47.32347,
+		"addressLine1": "Oltnerstrasse 502",
+		"city": "Egerkingen",
+		"phone": "+41 62 398 08 08"
+	},
+	{
+		"rid": "780105",
+		"name": "Lully",
+		"longitude": 6.858823,
+		"latitude": 46.83183,
+		"addressLine1": "Restoroute Rose de La Broye A1/E25",
+		"city": "Lully",
+		"phone": "+41 26 663 47 13"
+	},
+	{
+		"rid": "780192",
+		"name": "La Tour-de-Treme",
+		"longitude": 7.074203,
+		"latitude": 46.60183,
+		"addressLine1": "Route de l'Intyamon 107",
+		"city": "La Tour-de-Trême",
+		"phone": "026 913 93 71"
+	},
+	{
+		"rid": "780197",
+		"name": "Schafisheim",
+		"longitude": 8.138372,
+		"latitude": 47.38705,
+		"addressLine1": "Aarauerstrasse 2",
+		"city": "Schafisheim",
+		"phone": "062 891 02 32"
+	},
+	{
+		"rid": "780205",
+		"name": "Dietlikon",
+		"longitude": 8.615627,
+		"latitude": 47.412155,
+		"addressLine1": "Widenholzstrasse 2",
+		"city": "Dietlikon",
+		"phone": "+41 44 833 14 25"
+	},
+	{
+		"rid": "780034",
+		"name": "Olten",
+		"longitude": 7.9022784,
+		"latitude": 47.34984,
+		"addressLine1": "Kirchgasse 1",
+		"city": "Olten",
+		"phone": "+41 62 212 91 21"
+	},
+	{
+		"rid": "780196",
+		"name": "Mall of Switzerland",
+		"longitude": 8.358288,
+		"latitude": 47.09331,
+		"addressLine1": "Ebisquare-Strasse 1",
+		"city": "Ebikon",
+		"phone": "041 440 74 74"
+	},
+	{
+		"rid": "780211",
+		"name": "Spiez",
+		"longitude": 7.6682787,
+		"latitude": 46.684727,
+		"addressLine1": "Simmentalstrasse 50",
+		"city": "Spiez",
+		"phone": "+41 33 654 50 20"
+	},
+	{
+		"rid": "780071",
+		"name": "Dielsdorf",
+		"longitude": 8.465338,
+		"latitude": 47.483612,
+		"addressLine1": "Niederhaslistrasse 7",
+		"city": "Dielsdorf",
+		"phone": "+41 44 854 06 09"
+	},
+	{
+		"rid": "780149",
+		"name": "St. Gallen Bildstrasse",
+		"longitude": 9.311069,
+		"latitude": 47.414467,
+		"addressLine1": "Bildstrasse 2",
+		"city": "St. Gallen",
+		"phone": "+41 71 311 63 30"
+	},
+	{
+		"rid": "780153",
+		"name": "Zürich Oerlikon",
+		"longitude": 8.543244,
+		"latitude": 47.410774,
+		"addressLine1": "Hofwiesenstrasse 350-354",
+		"city": "8050 Zürich",
+		"phone": "+41 44 312 41 11"
+	},
+	{
+		"rid": "780160",
+		"name": "Kaiseraugst",
+		"longitude": 7.733665,
+		"latitude": 47.538654,
+		"addressLine1": "Lerchenweg 18",
+		"city": "Kaiseraugst",
+		"phone": "+41 61 811 93 33"
+	},
+	{
+		"rid": "780170",
+		"name": "Shoppi Tivoli",
+		"longitude": 8.36942,
+		"latitude": 47.42175,
+		"addressLine1": "Shoppi Tivoli",
+		"city": "Spreitenbach",
+		"phone": "+41 56 401 65 10"
+	},
+	{
+		"rid": "780174",
+		"name": "Avry-sur-Matran",
+		"longitude": 7.0792203,
+		"latitude": 46.785824,
+		"addressLine1": "Route de Matran 7",
+		"city": "Avry-sur-Matran",
+		"phone": "+41 26 470 07 88"
+	},
+	{
+		"rid": "780177",
+		"name": "Zürich Löwenstrasse",
+		"longitude": 8.537522,
+		"latitude": 47.37645,
+		"addressLine1": "Löwenstrasse 53",
+		"city": "Zürich",
+		"phone": "+41 44 210 14 07"
+	},
+	{
+		"rid": "780185",
+		"name": "Gossau",
+		"longitude": 9.235032,
+		"latitude": 47.418922,
+		"addressLine1": "Wiler Strasse 90",
+		"city": "Gossau",
+		"phone": "+41 71 383 44 15"
+	},
+	{
+		"rid": "780156",
+		"name": "Mels",
+		"longitude": 9.436486,
+		"latitude": 47.039715,
+		"addressLine1": "Grossfeldstrasse 67",
+		"city": "Mels",
+		"phone": "+41 81 710 57 00"
+	},
+	{
+		"rid": "780175",
+		"name": "Genève Aéroport",
+		"longitude": 6.106903,
+		"latitude": 46.229668,
+		"addressLine1": "Route de l'Aéroport 13",
+		"city": "Genève",
+		"phone": "+41 22 545 15 51"
+	},
+	{
+		"rid": "780176",
+		"name": "St. Gallen Bahnhof",
+		"longitude": 9.370819,
+		"latitude": 47.422688,
+		"addressLine1": "St. Leonhardstrasse 32",
+		"city": "St. Gallen",
+		"phone": "+41 71 222 31 61"
+	},
+	{
+		"rid": "780183",
+		"name": "Weinfelden",
+		"longitude": 9.093678,
+		"latitude": 47.568054,
+		"addressLine1": "Dunantstrasse 6",
+		"city": "Weinfelden",
+		"phone": "+41 71 620 31 70"
+	},
+	{
+		"rid": "780190",
+		"name": "Pratteln",
+		"longitude": 7.688922,
+		"latitude": 47.526016,
+		"addressLine1": "Grüssenweg 9",
+		"city": "Pratteln",
+		"phone": "+41 61 823 70 04"
+	},
+	{
+		"rid": "780098",
+		"name": "Dierikon",
+		"longitude": 8.362666,
+		"latitude": 47.0943,
+		"addressLine1": "Kantonsstrasse",
+		"city": "Dierikon",
+		"phone": "+41 41 450 50 50"
+	},
+	{
+		"rid": "780109",
+		"name": "Morges",
+		"longitude": 6.4941926,
+		"latitude": 46.51127,
+		"addressLine1": "Place de la Gare",
+		"city": "Morges",
+		"phone": "+41 21 802 64 60"
+	},
+	{
+		"rid": "780122",
+		"name": "Lenzburg",
+		"longitude": 8.193066,
+		"latitude": 47.38946,
+		"addressLine1": "Brauereiweg 7",
+		"city": "Lenzburg",
+		"phone": "+41 62 891 86 86"
+	},
+	{
+		"rid": "780139",
+		"name": "Emmenbrücke",
+		"longitude": 8.280784,
+		"latitude": 47.06944,
+		"addressLine1": "Zentrum Seetalplatz",
+		"city": "Emmenbrücke",
+		"phone": "+41 41 262 16 50"
+	},
+	{
+		"rid": "780146",
+		"name": "Affoltern",
+		"longitude": 8.446203,
+		"latitude": 47.273056,
+		"addressLine1": "Industriestrasse 8",
+		"city": "Affoltern a.A.",
+		"phone": "+41 44 760 45 25"
+	},
+	{
+		"rid": "780147",
+		"name": "Collombey-Muraz",
+		"longitude": 6.95386,
+		"latitude": 46.267418,
+		"addressLine1": "Z.A. Pré du Pont 105",
+		"city": "Collombey-Muraz",
+		"phone": "+41 24 472 90 10"
+	},
+	{
+		"rid": "780172",
+		"name": "Zürich Flughafen",
+		"longitude": 8.562985,
+		"latitude": 47.45014,
+		"addressLine1": "Flughafenstrasse 3",
+		"city": "Zürich-Flughafen",
+		"phone": "+41 43 305 28 00"
+	},
+	{
+		"rid": "780140",
+		"name": "Winterthur Zürcherstrasse",
+		"longitude": 8.712231,
+		"latitude": 47.495316,
+		"addressLine1": "Zürcherstrasse 50",
+		"city": "Winterthur",
+		"phone": "+41 52 214 07 47"
+	},
+	{
+		"rid": "780144",
+		"name": "Sihlbrugg",
+		"longitude": 8.572952,
+		"latitude": 47.216198,
+		"addressLine1": "Blegistrasse 1",
+		"city": "Sihlbrugg",
+		"phone": "+41 41 763 27 77"
+	},
+	{
+		"rid": "780161",
+		"name": "Baden-Dättwil",
+		"longitude": 8.290299,
+		"latitude": 47.45196,
+		"addressLine1": "Mellingerstrasse 208",
+		"city": "Dättwil",
+		"phone": "+41 56 470 32 90"
+	},
+	{
+		"rid": "780096",
+		"name": "Glattzentrum",
+		"longitude": 8.594014,
+		"latitude": 47.40875,
+		"addressLine1": "Neue Winterthurerstrasse 99",
+		"city": "Glattzentrum",
+		"phone": "+41 44 831 24 24"
+	},
+	{
+		"rid": "780142",
+		"name": "Zürich Enge",
+		"longitude": 8.531399,
+		"latitude": 47.36491,
+		"addressLine1": "Tessinerplatz 10",
+		"city": "Zürich",
+		"phone": "+41 44 280 09 42"
+	},
+	{
+		"rid": "780143",
+		"name": "Collonge-Bellerive",
+		"longitude": 6.2155995,
+		"latitude": 46.247334,
+		"addressLine1": "Route de Thonon 152a",
+		"city": "Collonge-Bellerive",
+		"phone": "+41 22 752 66 20"
+	},
+	{
+		"rid": "780095",
+		"name": "Granges-Paccot",
+		"longitude": 7.146855,
+		"latitude": 46.827778,
+		"addressLine1": "Route d'Englisberg 3",
+		"city": "Granges-Paccot",
+		"phone": "+41 26 469 09 70"
+	},
+	{
+		"rid": "780107",
+		"name": "Chablais Ouest",
+		"longitude": 6.930826,
+		"latitude": 46.337284,
+		"addressLine1": "Relais autoroutier du Chablais Ouest ",
+		"city": "Yvorne ",
+		"phone": "024 466 57 96"
+	},
+	{
+		"rid": "780151",
+		"name": "MARTIGNY DRIVE",
+		"longitude": 7.077247,
+		"latitude": 46.114212,
+		"addressLine1": "RUE DU BATTOIR 6",
+		"city": "MARTIGNY",
+		"phone": "027 544 08 97"
+	},
+	{
+		"rid": "780154",
+		"name": "La Chaux-de-Fonds Gare",
+		"longitude": 6.8246336,
+		"latitude": 47.098537,
+		"addressLine1": "Place de la Gare 6",
+		"city": "La Chaux-de-Fonds",
+		"phone": "+41 32 914 70 20"
+	},
+	{
+		"rid": "780077",
+		"name": "Zürich Bahnhofplatz",
+		"longitude": 8.540349,
+		"latitude": 47.376698,
+		"addressLine1": "Bahnhofplatz 5",
+		"city": "Zürich",
+		"phone": "+41 44 211 80 70"
+	},
+	{
+		"rid": "780079",
+		"name": "Yverdon Centre Commercial",
+		"longitude": 6.636507,
+		"latitude": 46.780415,
+		"addressLine1": "Rue d'Orbe 1",
+		"city": "Yverdon-les-bains",
+		"phone": "+41 24 426 50 22"
+	},
+	{
+		"rid": "780086",
+		"name": "Chur Alexanderstrasse",
+		"longitude": 9.531621,
+		"latitude": 46.852924,
+		"addressLine1": "Alexanderstrasse 8",
+		"city": "Chur",
+		"phone": "+41 81 250 55 55"
+	},
+	{
+		"rid": "780089",
+		"name": "Bülach",
+		"longitude": 8.544605,
+		"latitude": 47.51049,
+		"addressLine1": "Schleufenbergstr. 1",
+		"city": "Bülach",
+		"phone": "+41 44 886 26 15"
+	},
+	{
+		"rid": "780090",
+		"name": "Burgdorf",
+		"longitude": 7.6003404,
+		"latitude": 47.068775,
+		"addressLine1": "Kirchbergstrasse 237",
+		"city": "Burgdorf",
+		"phone": "+41 34 422 32 88"
+	},
+	{
+		"rid": "780129",
+		"name": "Reinach",
+		"longitude": 8.17656,
+		"latitude": 47.26596,
+		"addressLine1": "Aarauerstrasse 72",
+		"city": "Reinach",
+		"phone": "+41 62 772 24 24"
+	},
+	{
+		"rid": "780134",
+		"name": "Rümlang",
+		"longitude": 8.540447,
+		"latitude": 47.4509,
+		"addressLine1": "Flughofstrasse 77",
+		"city": "Ruemlang",
+		"phone": "+41 43 211 02 22"
+	},
+	{
+		"rid": "780081",
+		"name": "Bremgarten",
+		"longitude": 8.350407,
+		"latitude": 47.353043,
+		"addressLine1": "Zufikerstrasse 1",
+		"city": "Bremgarten",
+		"phone": "+41 56 631 60 00"
+	},
+	{
+		"rid": "780082",
+		"name": "Renens",
+		"longitude": 6.579732,
+		"latitude": 46.538147,
+		"addressLine1": "Rue de Crissier 4b",
+		"city": "Renens",
+		"phone": "+41 21 634 57 29"
+	},
+	{
+		"rid": "780130",
+		"name": "Baden Schlossberg",
+		"longitude": 8.306941,
+		"latitude": 47.474743,
+		"addressLine1": "Bahnhofstrasse 7",
+		"city": "Baden",
+		"phone": "+41 56 222 85 88"
+	},
+	{
+		"rid": "780136",
+		"name": "Affoltern MyStop",
+		"longitude": 8.4385,
+		"latitude": 47.27146,
+		"addressLine1": "Moosbachstrasse 1",
+		"city": "Affoltern am Albis",
+		"phone": "0445859122"
+	},
+	{
+		"rid": "780061",
+		"name": "Hinwil",
+		"longitude": 8.824291,
+		"latitude": 47.305378,
+		"addressLine1": "Wässeristrasse 22",
+		"city": "Hinwil",
+		"phone": "+41 43 843 71 51"
+	},
+	{
+		"rid": "780110",
+		"name": "Nyon Centre",
+		"longitude": 6.236791,
+		"latitude": 46.38289,
+		"addressLine1": "Av. de la Gare 26",
+		"city": "Nyon",
+		"phone": "+41 22 362 64 63"
+	},
+	{
+		"rid": "780113",
+		"name": "Bern Hauptbahnhof",
+		"longitude": 7.4402742,
+		"latitude": 46.94884,
+		"addressLine1": "Hauptbahnhof",
+		"city": "Bern",
+		"phone": "+41 31 318 07 50"
+	},
+	{
+		"rid": "780067",
+		"name": "St. Margrethen",
+		"longitude": 9.653127,
+		"latitude": 47.447277,
+		"addressLine1": "Neugrüt 1",
+		"city": "St. Margrethen",
+		"phone": "+41 71 744 81 81"
+	},
+	{
+		"rid": "780104",
+		"name": "Langenthal",
+		"longitude": 7.7910924,
+		"latitude": 47.212074,
+		"addressLine1": "Melchnaustrasse 1",
+		"city": "Langenthal",
+		"phone": "+41 62 922 98 88"
+	},
+	{
+		"rid": "780106",
+		"name": "Chablais Est",
+		"longitude": 6.931513,
+		"latitude": 46.340275,
+		"addressLine1": "Relais autoroutier du Chablais est",
+		"city": "Yvorne",
+		"phone": "+41 24 466 53 80"
+	},
+	{
+		"rid": "780118",
+		"name": "Lausanne Rue de Bourg",
+		"longitude": 6.636432,
+		"latitude": 46.520138,
+		"addressLine1": "Rue de Bourg 47-49",
+		"city": "Lausanne",
+		"phone": "+41 21 311 00 22"
+	},
+	{
+		"rid": "780092",
+		"name": "Buchs",
+		"longitude": 9.476178,
+		"latitude": 47.16619,
+		"addressLine1": "Bahnhofstrasse 21",
+		"city": "Buchs",
+		"phone": "+41 81 750 00 99"
+	},
+	{
+		"rid": "780102",
+		"name": "Payerne",
+		"longitude": 6.9361634,
+		"latitude": 46.820694,
+		"addressLine1": "Rue de Lausanne 6",
+		"city": "Payerne",
+		"phone": "+41 26 660 00 44"
+	},
+	{
+		"rid": "780238",
+		"name": "Shoppyland",
+		"longitude": 7.493292,
+		"latitude": 47.017166,
+		"addressLine1": "Industriestrasse 10",
+		"city": "Schönbühl",
+		"phone": "+41 31 852 11 55"
+	},
+	{
+		"rid": "780053",
+		"name": "Aarau",
+		"longitude": 8.045688,
+		"latitude": 47.39069,
+		"addressLine1": "Bahnhofstrasse 5 - 7",
+		"city": "Aarau",
+		"phone": "+41 62 824 18 18"
+	},
+	{
+		"rid": "780055",
+		"name": "Zuchwil",
+		"longitude": 7.571708,
+		"latitude": 47.201817,
+		"addressLine1": "Schützenweg 2",
+		"city": "Zuchwil",
+		"phone": "+41 32 685 24 27"
+	},
+	{
+		"rid": "780091",
+		"name": "Suhr",
+		"longitude": 8.0830555,
+		"latitude": 47.372772,
+		"addressLine1": "Bernstrasse Ost 51",
+		"city": "Suhr",
+		"phone": "+41 62 842 66 88"
+	},
+	{
+		"rid": "780041",
+		"name": "Zollikofen",
+		"longitude": 7.462987,
+		"latitude": 47.004642,
+		"addressLine1": "Bernstrasse 226",
+		"city": "Zollikofen",
+		"phone": "+41 31 911 76 76"
+	},
+	{
+		"rid": "780084",
+		"name": "Allschwil",
+		"longitude": 7.553191,
+		"latitude": 47.546375,
+		"addressLine1": "Paradiesrain 1",
+		"city": "Allschwil",
+		"phone": "+41 61 483 01 00"
+	},
+	{
+		"rid": "780088",
+		"name": "Grenchen",
+		"longitude": 7.401166,
+		"latitude": 47.19295,
+		"addressLine1": "Leimenstrasse 2",
+		"city": "Grenchen",
+		"phone": "+41 32 652 45 45"
+	},
+	{
+		"rid": "780198",
+		"name": "Mendrisio",
+		"longitude": 8.978267,
+		"latitude": 45.874428,
+		"addressLine1": "via Angelo Maspoli 17",
+		"city": "Mendrisio",
+		"phone": "+41 91 646 14 40"
+	},
+	{
+		"rid": "780216",
+		"name": "Genève Acacias-Etoile",
+		"longitude": 6.128963,
+		"latitude": 46.188137,
+		"addressLine1": "Route des Jeunes 9",
+		"city": "Les Acacias",
+		"phone": "+41 22 301 99 11"
+	},
+	{
+		"rid": "780052",
+		"name": "Baar",
+		"longitude": 8.520211,
+		"latitude": 47.185326,
+		"addressLine1": "Zugerstrasse 62",
+		"city": "Baar",
+		"phone": "+41 41 760 65 06"
+	},
+	{
+		"rid": "780085",
+		"name": "Füllinsdorf",
+		"longitude": 7.720926,
+		"latitude": 47.51211,
+		"addressLine1": "Wölferstrasse 2",
+		"city": "Füllinsdorf",
+		"phone": "+41 61 902 12 70"
+	},
+	{
+		"rid": "780087",
+		"name": "Volketswil",
+		"longitude": 8.671879,
+		"latitude": 47.381588,
+		"addressLine1": "Hofwiesenstrasse 2",
+		"city": "Volketswil",
+		"phone": "+41 44 997 48 00"
+	},
+	{
+		"rid": "780206",
+		"name": "Basel Stücki-Park",
+		"longitude": 7.59539,
+		"latitude": 47.579563,
+		"addressLine1": "Hochbergerstrasse 70",
+		"city": "Basel",
+		"phone": "+41 61 631 56 77"
+	},
+	{
+		"rid": "780030",
+		"name": "Luzern Hertensteinstrasse",
+		"longitude": 8.308673,
+		"latitude": 47.054512,
+		"addressLine1": "Hertensteinstrasse 32",
+		"city": "Luzern",
+		"phone": "+41 41 419 71 51"
+	},
+	{
+		"rid": "780032",
+		"name": "Rennaz",
+		"longitude": 6.9217167,
+		"latitude": 46.38418,
+		"addressLine1": "Pré-de-la-Croix 11",
+		"city": "Rennaz",
+		"phone": "+41 21 968 13 06"
+	},
+	{
+		"rid": "780037",
+		"name": "Morbio",
+		"longitude": 9.017782,
+		"latitude": 45.8432,
+		"addressLine1": "Viale Serfontana",
+		"city": "Morbio",
+		"phone": "+41 91 682 28 78"
+	},
+	{
+		"rid": "780038",
+		"name": "Spreitenbach",
+		"longitude": 8.373961,
+		"latitude": 47.418392,
+		"addressLine1": "Wigartestrasse 4",
+		"city": "Spreitenbach",
+		"phone": "+41 56 401 55 33"
+	},
+	{
+		"rid": "780078",
+		"name": "Genève Malbuisson",
+		"longitude": 6.1466594,
+		"latitude": 46.203304,
+		"addressLine1": "Rue du Marché 9-11",
+		"city": "Genève",
+		"phone": "+41 22 310 20 70"
+	},
+	{
+		"rid": "780035",
+		"name": "Thun",
+		"longitude": 7.6266546,
+		"latitude": 46.75939,
+		"addressLine1": "Bälliz 22",
+		"city": "Thun",
+		"phone": "+41 33 223 51 51"
+	},
+	{
+		"rid": "780066",
+		"name": "Schlieren",
+		"longitude": 8.451044,
+		"latitude": 47.40184,
+		"addressLine1": "Friedaustrasse 8",
+		"city": "Schlieren",
+		"phone": "+41 44 730 34 34"
+	},
+	{
+		"rid": "780068",
+		"name": "Montreux",
+		"longitude": 6.9092555,
+		"latitude": 46.431293,
+		"addressLine1": "Place du Marché 6B",
+		"city": "Montreux",
+		"phone": "+41 21 965 11 45"
+	},
+	{
+		"rid": "780031",
+		"name": "Yverdon Drive",
+		"longitude": 6.622382,
+		"latitude": 46.788425,
+		"addressLine1": "En Chamard",
+		"city": "Montagny",
+		"phone": "+41 24 446 26 00"
+	},
+	{
+		"rid": "780075",
+		"name": "Sursee",
+		"longitude": 8.110216,
+		"latitude": 47.177654,
+		"addressLine1": "Surentalstrasse 10",
+		"city": "Sursee",
+		"phone": "+41 41 921 99 66"
+	},
+	{
+		"rid": "780016",
+		"name": "Crissier Drive",
+		"longitude": 6.5680785,
+		"latitude": 46.545692,
+		"addressLine1": "Rue de Morges 23",
+		"city": "Crissier",
+		"phone": "+41 21 631 11 50"
+	},
+	{
+		"rid": "780056",
+		"name": "Bellinzona",
+		"longitude": 9.012545,
+		"latitude": 46.18383,
+		"addressLine1": "Via Zorzi 36",
+		"city": "Bellinzona",
+		"phone": "+41 91 826 13 68"
+	},
+	{
+		"rid": "780065",
+		"name": "Bulle",
+		"longitude": 7.0592155,
+		"latitude": 46.62729,
+		"addressLine1": "Rue de Dardens 2",
+		"city": "Bulle",
+		"phone": "+41 26 913 93 53"
+	},
+	{
+		"rid": "780019",
+		"name": "Zürich Langstrasse",
+		"longitude": 8.529837,
+		"latitude": 47.382847,
+		"addressLine1": "Langstrasse 201",
+		"city": "Zürich"
+	},
+	{
+		"rid": "780020",
+		"name": "Zermatt",
+		"longitude": 7.747397,
+		"latitude": 46.022938,
+		"addressLine1": "Bahnhofstrasse 12",
+		"city": "Zermatt",
+		"phone": "+41 27 967 64 65"
+	},
+	{
+		"rid": "780027",
+		"name": "Vevey",
+		"longitude": 6.841232,
+		"latitude": 46.462868,
+		"addressLine1": "Av. Général Guisan 15",
+		"city": "Vevey",
+		"phone": "+41 21 923 56 14"
+	},
+	{
+		"rid": "780064",
+		"name": "Heimberg",
+		"longitude": 7.607141,
+		"latitude": 46.780975,
+		"addressLine1": "Blümlisalpstrasse 36",
+		"city": "Heimberg",
+		"phone": "+41 33 438 15 51"
+	},
+	{
+		"rid": "780005",
+		"name": "Zürich Badenerstrasse",
+		"longitude": 8.529777,
+		"latitude": 47.373436,
+		"addressLine1": "Badenerstrasse 21",
+		"city": "Zürich",
+		"phone": "+41 44 242 15 55"
+	},
+	{
+		"rid": "780014",
+		"name": "Luzern Pilatusstrasse",
+		"longitude": 8.308898,
+		"latitude": 47.049732,
+		"addressLine1": "Pilatusstrasse 1",
+		"city": "Luzern",
+		"phone": "+41 41 210 64 65"
+	},
+	{
+		"rid": "780049",
+		"name": "Kreuzlingen",
+		"longitude": 9.2006645,
+		"latitude": 47.63917,
+		"addressLine1": "Romanshornerstrasse 120",
+		"city": "Kreuzlingen",
+		"phone": "+41 71 688 70 70"
+	},
+	{
+		"rid": "780054",
+		"name": "Nyon Drive",
+		"longitude": 6.2195435,
+		"latitude": 46.387768,
+		"addressLine1": "Chemin de la Fontaine 10",
+		"city": "Nyon",
+		"phone": "+41 22 361 96 69"
+	},
+	{
+		"rid": "780007",
+		"name": "Biel Nidaugasse",
+		"longitude": 7.2468686,
+		"latitude": 47.13788,
+		"addressLine1": "Nidaugasse 43",
+		"city": "Biel",
+		"phone": "+41 32 322 72 68"
+	},
+	{
+		"rid": "780001",
+		"name": "Genève Mont-Blanc",
+		"longitude": 6.144138,
+		"latitude": 46.20906,
+		"addressLine1": "Rue du Mont-Blanc 22",
+		"city": "Genève",
+		"phone": "+41 22 732 97 18"
+	},
+	{
+		"rid": "780010",
+		"name": "Lausanne St. Laurent",
+		"longitude": 6.6306343,
+		"latitude": 46.522488,
+		"addressLine1": "Rue St-Laurent 20",
+		"city": "Lausanne",
+		"phone": "+41 21 320 46 79"
+	},
+	{
+		"rid": "780002",
+		"name": "Lausanne Gare",
+		"longitude": 6.629304,
+		"latitude": 46.517593,
+		"addressLine1": "Place de la Gare 4",
+		"city": "Lausanne",
+		"phone": "+41 21 320 48 51"
+	},
+	{
+		"rid": "780009",
+		"name": "Fribourg",
+		"longitude": 7.1548066,
+		"latitude": 46.804836,
+		"addressLine1": "Rue de Romont 15",
+		"city": "Fribourg",
+		"phone": "+41 26 322 47 77"
+	},
+	{
+		"rid": "780046",
+		"name": "Kriens",
+		"longitude": 8.299441,
+		"latitude": 47.02614,
+		"addressLine1": "Nidfeldstrasse 14",
+		"city": "Kriens",
+		"phone": "+41 41 340 63 63"
+	},
+	{
+		"rid": "780047",
+		"name": "La Chaux-de-Fonds Drive",
+		"longitude": 6.7962847,
+		"latitude": 47.084446,
+		"addressLine1": "Bd. des Eplatures 62",
+		"city": "La Chaux-de-Fonds",
+		"phone": "+41 32 926 04 05"
+	},
+	{
+		"rid": "780048",
+		"name": "Regensdorf",
+		"longitude": 8.465873,
+		"latitude": 47.444065,
+		"addressLine1": "Adlikerstrasse 297",
+		"city": "Regensdorf",
+		"phone": "+41 44 870 01 05"
+	},
+	{
+		"rid": "780120",
+		"name": "Biel Grenchenstrasse",
+		"longitude": 7.2879295,
+		"latitude": 47.15887,
+		"addressLine1": "Grenchenstrasse 3",
+		"city": "Biel",
+		"phone": "+41 32 342 71 41"
+	},
+	{
+		"rid": "780008",
+		"name": "Basel Greifengasse",
+		"longitude": 7.592124,
+		"latitude": 47.56128,
+		"addressLine1": "Greifengasse 15",
+		"city": "Basel",
+		"phone": "+41 61 681 22 62"
+	},
+	{
+		"rid": "780044",
+		"name": "Fuchsberg",
+		"longitude": 8.751931,
+		"latitude": 47.19629,
+		"addressLine1": "Autobahnzentrum Fuchsberg",
+		"city": "Wollerau",
+		"phone": "+41 55 420 18 00"
+	},
+	{
+		"rid": "780040",
+		"name": "Brig",
+		"longitude": 7.961298,
+		"latitude": 46.306385,
+		"addressLine1": "Kantonsstrasse 288",
+		"city": "Brig",
+		"phone": "+41 27 924 47 29"
+	},
+	{
+		"rid": "780045",
+		"name": "Lausanne Terreaux",
+		"longitude": 6.626959,
+		"latitude": 46.523212,
+		"addressLine1": "Rue des Terreaux 22",
+		"city": "Lausanne",
+		"phone": "+41 21 312 65 77"
+	},
+	{
+		"rid": "780039",
+		"name": "Balexert Centre Commercial",
+		"longitude": 6.11325,
+		"latitude": 46.21877,
+		"addressLine1": "Av. Louis-Casaï 27",
+		"city": "Les Avanchets",
+		"phone": "+41 22 797 18 91"
+	},
+	{
+		"rid": "780025",
+		"name": "Schaffhausen",
+		"longitude": 8.634037,
+		"latitude": 47.698185,
+		"addressLine1": "Vorstadt 19",
+		"city": "Schaffhausen",
+		"phone": "+41 52 624 37 20"
+	},
+	{
+		"rid": "780023",
+		"name": "Winterthur Untertor",
+		"longitude": 8.724571,
+		"latitude": 47.499058,
+		"addressLine1": "Untertor 37",
+		"city": "Winterthur",
+		"phone": "+41 52 212 02 21"
+	},
+	{
+		"rid": "780024",
+		"name": "St.Gallen Markt am Bohl",
+		"longitude": 9.377076,
+		"latitude": 47.426617,
+		"addressLine1": "Markt am Bohl 9",
+		"city": "St. Gallen",
+		"phone": "+41 71 223 82 70"
+	},
+	{
+		"rid": "780015",
+		"name": "Genève Les Cygnes",
+		"longitude": 6.144652,
+		"latitude": 46.211464,
+		"addressLine1": "Rue de Lausanne 18 – 20",
+		"city": "Genève",
+		"phone": "+41 22 738 95 87"
+	},
+	{
+		"rid": "780017",
+		"name": "Sion",
+		"longitude": 7.3588014,
+		"latitude": 46.22825,
+		"addressLine1": "Av. de la Gare 3",
+		"city": "Sion",
+		"phone": "+41 27 323 66 00"
+	},
+	{
+		"rid": "780012",
+		"name": "Genève Plainpalais",
+		"longitude": 6.1427183,
+		"latitude": 46.198414,
+		"addressLine1": "Rond-Point de Plainpalais 1",
+		"city": "Genève",
+		"phone": "+41 22 320 71 10"
+	},
+	{
+		"rid": "780021",
+		"name": "Neuchâtel Centre",
+		"longitude": 6.929464,
+		"latitude": 46.991894,
+		"addressLine1": "Rue de l'Hôpital 20",
+		"city": "Neuchâtel",
+		"phone": "+41 32 724 10 34"
+	},
+	{
+		"rid": "780003",
+		"name": "Basel Barfüsserplatz",
+		"longitude": 7.588615,
+		"latitude": 47.554283,
+		"addressLine1": "Barfüsserplatz 9",
+		"city": "Basel",
+		"phone": "+41 61 271 90 33"
+	},
+	{
+		"rid": "780004",
+		"name": "Genève Cours de Rive",
+		"longitude": 6.1527524,
+		"latitude": 46.201996,
+		"addressLine1": "Cours de Rive 3",
+		"city": "Genève",
+		"phone": "+41 22 311 85 75"
+	}
+]

@@ -1,0 +1,168 @@
+html,
+body {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+#root {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+		"Droid Sans", "Helvetica Neue", sans-serif;
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	color: #1652f0;
+	background: #ffffff;
+}
+
+.header {
+	margin-top: 5px;
+	text-align: center;
+	padding: 5px;
+}
+
+.header h2 {
+	margin: 0;
+	text-align: center;
+}
+
+.container {
+	height: 100%;
+	overflow-y: scroll;
+	padding: 10px;
+	text-align: center;
+}
+
+.restaurants-list {
+	margin-top: 20px;
+}
+
+.location {
+	width: 100%;
+}
+.form {
+	max-width: 350px;
+	padding: 15px;
+	text-align: center;
+	margin: auto;
+}
+
+button {
+	border: 1px solid rgb(22, 82, 240);
+	background-color: rgb(22, 82, 240);
+	color: #fff;
+	border-radius: 4px;
+	padding: 15px;
+	width: 100%;
+	font-size: 0.9em;
+}
+
+p {
+	color: #6c8397;
+	margin: 8px;
+}
+
+input {
+	width: 100%;
+	text-align: center;
+	color: #6ea6d2;
+	border-radius: 5px;
+	border: 1px solid rgb(224, 227, 230);
+	padding: 15px;
+	font-size: 0.9em;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+input:focus {
+	outline: none;
+}
+
+.restaurant {
+	padding: 10px;
+	text-align: left;
+	border: 1px solid rgb(236, 239, 241);
+	max-width: 600px;
+	margin: auto;
+	margin-bottom: 5px;
+}
+
+.restaurant h3 {
+	margin: 0;
+	color: #050f8e;
+	font-weight: normal;
+}
+
+.restaurant a {
+	text-decoration: none;
+}
+
+.restaurant span,
+a {
+	color: #6ea6d2;
+	font-size: 0.9em;
+}
+
+.restaurant .status {
+	float: right;
+	text-align: center;
+	padding: 4px 10px;
+	border-radius: 25px;
+	color: #ffffff;
+}
+
+.restaurant .success::before {
+	content: "Working";
+}
+
+.restaurant .success {
+	background-color: #40b600;
+}
+
+.restaurant .warning::before {
+	content: "Partially working";
+}
+
+.restaurant .warning {
+	background-color: #eba400;
+}
+
+.restaurant .error::before {
+	content: "Broken";
+}
+
+.restaurant .error {
+	background-color: #ff3838;
+}
+
+.restaurant .unknown::before {
+	content: "Unknown";
+}
+
+.restaurant .unknown {
+	background-color: gray;
+}
+
+.not-available {
+	color: rgb(255, 101, 101) !important;
+}
+
+.last-update {
+	color: #6c8397;
+	display: block;
+	font-size: 0.7em;
+}
+
+.footer {
+	font-size: 0.9em;
+	text-align: center;
+	color: #6c8397;
+	height: 45px;
+}
+
+.footer a {
+	line-height: 45px;
+	text-decoration: none;
+	color: #5e52f2;
+}
