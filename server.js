@@ -53,8 +53,9 @@ const checkRestaurants = async () => {
           method: "GET",
           headers: {
             "mcd-clientid": clientId,
-            "mcd-sourceapp": "", // Not controlled but required
-            "mcd-uuid": "", // Not controlled but required
+            "mcd-sourceapp": "GMAL",
+            "mcd-uuid": "",
+            "mcd-marketid": "CH",
             authorization: "Bearer " + token,
           },
         }
