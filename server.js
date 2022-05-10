@@ -47,33 +47,38 @@ const checkRestaurants = async () => {
     for (let restaurant of restaurants) {
       restaurant.status = {};
 
-      let response = await fetch(
-        "https://el-prod.api.mcd.com/exp/v1/restaurant/details/" + restaurant.rid,
-        {
-          method: "GET",
-          headers: {
-            "mcd-clientid": clientId,
-            "mcd-sourceapp": "GMAL",
-            "mcd-uuid": "",
-            "mcd-marketid": "CH",
-            authorization: "Bearer " + token,
-          },
-        }
-      );
+      try {
+        let response = await fetch(
+          "https://el-prod.api.mcd.com/exp/v1/restaurant/details/" + restaurant.rid,
+          {
+            method: "GET",
+            headers: {
+              "mcd-clientid": clientId,
+              "mcd-sourceapp": "GMAL",
+              "mcd-uuid": "",
+              "mcd-marketid": "CH",
+              authorization: "Bearer " + token,
+            },
+          }
+        );
 
-      let json = await response.json();
+        let json = await response.json();
 
-      if (json.status.type === "Success") {
-        let availableProducts = json.response.restaurant.AvailableMenuProducts["2"];
-        for (let key in productsToCheck) {
-          let productCode = productsToCheck[key];
-          restaurant.status[key] = availableProducts.includes(productCode);
+        if (json.status.type === "Success") {
+          let availableProducts = json.response.restaurant.AvailableMenuProducts["2"];
+          for (let key in productsToCheck) {
+            let productCode = productsToCheck[key];
+            restaurant.status[key] = availableProducts.includes(productCode);
+          }
+        } else {
+          restaurant.status = false;
         }
-      } else {
+
+        console.log(`Updated ${restaurant.name}`, restaurant.status);
+      } catch (error) {
+        console.log(`Error updating ${restaurant.name}`);
         restaurant.status = false;
       }
-
-      console.log(`Updated ${restaurant.name}`, restaurant.status);
     }
     updatedAt = Date.now();
   }
@@ -86,11 +91,11 @@ const app = express();
 
 app.use(express.static("build"));
 
-app.get("/restaurants", (req, res) => {
+app.get("/restaurants", (_, res) => {
   res.send({ updatedAt, data: restaurants });
 });
 
-app.get("*", (req, res) => {
+app.get("*", (_, res) => {
   res.redirect("/");
 });
 
